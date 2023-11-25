@@ -1,5 +1,11 @@
-# Descripción
-Este repo contiene ejemplos de apoyo utilizado para cursos y seminarios de introducción al *machine learning* (aprendizaje automático). Los ejemplos están todos en Python y usan las librerías típicas, `numpy`, `matplotlib`, `scikit-learn`, etc.
+## Descripción
+Este repo contiene ejemplos y pequeñas demostraciones con datos reales, que sirven de apoyo para cursos y seminarios de introducción al *machine learning* (aprendizaje automático). El material aborda conceptos básicos de 
+- regresión
+- clasificación
+- reducción de la dimensionalidad 
+- identificación de sistemas dinámicos
+
+Los ejemplos están todos en Python y usan las librerías típicas, `numpy`, `matplotlib`, `scikit-learn`, etc.
 
 ## Instalación
 Para asegurar que todo funciona, puedes descargar el `zip` con el contenido del repo, o clonarlo con
