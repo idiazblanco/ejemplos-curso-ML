@@ -1,0 +1,3 @@
+# Ignorar todos los DS_Store
+.DS_Store
+**/Sandbox/
