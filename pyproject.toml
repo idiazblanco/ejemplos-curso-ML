@@ -5,6 +5,7 @@ requires-python = ">=3.14"
 dependencies = [
     "ipykernel>=7.1.0",
     "ipython>=9.9.0",
+    "jupyter>=1.1.1",
     "matplotlib>=3.10.8",
     "nbconvert>=7.16.6",
     "numpy>=2.3.5",
