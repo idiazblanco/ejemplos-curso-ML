@@ -1,4 +1,4 @@
-# Ignorar todos los DS_Store
 .DS_Store
 **/Sandbox/
-**/*.html
+# html_py/
+# exporta_todos.sh
