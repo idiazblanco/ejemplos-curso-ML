@@ -14,6 +14,7 @@ dependencies = [
     "pandas>=3.0.0",
     "pyaudio>=0.2.14",
     "scikit-learn>=1.8.0",
+    "sounddevice>=0.5.5",
     "tensorflow>=2.20.0",
     "umap-learn>=0.5.11",
 ]
