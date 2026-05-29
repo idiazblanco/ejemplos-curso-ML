@@ -100,7 +100,7 @@ print(df)
 # Estimamos el modelo utilizando la expresión
 # 
 # $$
-# \hat {\mathbf W} = (\mathbf X^T \mathbf X - \lambda\mathbf I)^{-1}\mathbf X^T\mathbf Y
+# \hat {\mathbf W} = (\mathbf X^T \mathbf X + \lambda\mathbf I)^{-1}\mathbf X^T\mathbf Y
 # $$
 # 
 # tomando la matriz de regresores los valores de $x$ con una columna extra de $1's$ que permite obtener el término independiente en el modelo 
